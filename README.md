@@ -8,9 +8,9 @@
 
 - 💬 Ask me about **Python, Php, Node**
 - 📫 How to reach me **iamsumandal@gmail.com**
-- Linkedin: **https://in.linkedin.com/in/link-suman**
+- 🔗🇮🇳 Linkedin: **https://in.linkedin.com/in/link-suman**
 
-<h3 align="left">Connect with me: **iamsumandal@gmail.com** </h3>
+<h3 align="left">Connect with me: iamsumandal@gmail.com </h3>
 <p align="left">
 </p>
 
