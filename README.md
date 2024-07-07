@@ -7,8 +7,8 @@
 <h3 align="center">As a fervent developer hailing from India, I excel in crafting dynamic web, mobile, and desktop applications, harnessing a versatile range of cutting-edge technologies with precision and finesse.</h3>
 
 - 💬 Ask me about **Python, Php, Node**
-
 - 📫 How to reach me **iamsumandal@gmail.com**
+- Linkedin: **https://in.linkedin.com/in/link-suman**
 
 <h3 align="left">Connect with me: **iamsumandal@gmail.com** </h3>
 <p align="left">
